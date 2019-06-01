@@ -1,0 +1,22 @@
+{
+  "name": "bonus_promedio_alto",
+  "version": "1.0.1",
+  "description": "bonus",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "bonus_promedio_alto"
+  },
+  "keywords": [
+    "bonus",
+    "tdea"
+  ],
+  "author": "Jorge Eliecer Perez N",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^13.2.4"
+  }
+}
