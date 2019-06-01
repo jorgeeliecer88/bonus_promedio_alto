@@ -11,7 +11,7 @@ ejecutar en linea de comandos promedio superior a 3 : node index promedioSuperio
 Si se trabaja con proyecto github:
 
 Descargar proyecto:
-https://github.com/jorgeeliecer88/bonus_resultados
+https://github.com/jorgeeliecer88/bonus_promedio_alto
 
 Ejecutar dentro del proyecto el comando install para instalar descargar dependencias: 
 npm install
