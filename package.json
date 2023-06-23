@@ -17,6 +17,6 @@
   "author": "Jorge Eliecer Perez N",
   "license": "ISC",
   "dependencies": {
-    "yargs": "^13.2.4"
+    "yargs": "^13.3.2"
   }
 }
